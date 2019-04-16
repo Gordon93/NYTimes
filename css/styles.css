@@ -1,0 +1,23 @@
+#ddlist {
+  margin-top:50px;
+  margin-left:50px
+}
+
+#chklist {
+  margin-top:50px;
+  margin-left:50px;
+}
+
+#barChart{
+  margin-top:50px;
+  position: relative;
+}
+
+#NYarticles{
+  position: relative;
+}
+
+#databtn{
+  position: relative;
+  margin-left:50px;
+}
